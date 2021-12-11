@@ -1,5 +1,5 @@
-- 👋 Buenas, soy Denis Durán Ibáñez, aquí @drektmr
-- 👀 Me interesa el frontend, el backend y el diseño gráfico que es a lo que me dedico actualmente
-- 🌱 Actualmente estoy cursando la formación profesional de Grado Superior "Desarrollo de Aplicaciones Web"
-- 💞️ Si os gusta mi trabajo sentiros libre de contactar conmigo
+- 👋 Buenas, soy Denis Durán Ibáñez, aquí @drektmr.
+- 👀 Me interesa el Full-Stack development y el diseño gráfico que es a lo que me dedico actualmente.
+- 🌱 Actualmente estoy cursando la formación profesional de Grado Superior "Desarrollo de Aplicaciones Web".
+- 💞️ Si os gusta mi trabajo sentiros libre de contactar conmigo.
 - 📫 Email: denis.duran.44@gmail.com
