@@ -30,7 +30,7 @@
    <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="My SQL" width="50"/>
 </div>
 <a href="https://github.com/drektmr?tab=repositories" target="_blank">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drektmr&layout=compact&show_icons=true&bg_color=00000000&hide_border"
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drektmr&layout=compact&show_icons=true&bg_color=00000000&hide_border=true"
    alt="Most Used"/>
 </a>
 
