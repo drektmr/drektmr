@@ -7,5 +7,13 @@
 - 📫 Email: denis.duran.44@gmail.com
 
 ## Skills
-![Adobe Ilustrator](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobeillustrator.svg)
+>![Adobe Ilustrator](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobeillustrator.svg)
+>![Adobe Photoshop](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobephotoshop.svg)
+>![Adobe Premiere](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobepremierepro.svg)
+>![Adobe After Effects](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobeaftereffects.svg)
+>![Java](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/java.svg)
+>![JavaScript](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/javascript.svg)
+>![React](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/createreactapp.svg)
+>![HTML](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/html5.svg)
+>![CSS](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/css3.svg)
 
