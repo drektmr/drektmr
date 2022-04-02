@@ -26,3 +26,5 @@ width="50"/>
 width="50"/>     
 <img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="50"/>
 <img src="https://simpleicons.org/icons/mysql.svg" alt="My SQL" width="50"/></div>
+[![​Top Langs​](https://github-readme-stats.vercel.app/api/top-langs/?username=drektmr&layout=compact)](https://github.com/drektmr?tab=repositories)
+
