@@ -7,5 +7,5 @@
 - 📫 Email: denis.duran.44@gmail.com
 
 ## Skills
->[!Adobe Ilustrator](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobeillustrator.svg)
->
+![Adobe Ilustrator](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobeillustrator.svg)
+
