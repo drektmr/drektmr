@@ -42,6 +42,6 @@ width="50"/>
 <a href="https://twitter.com/drektmr/" target="_blank">
    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--chf73s-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/twitter-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter" loading="lazy" width="115" height="28">
 </a>
-<a href="denis.duran.44@gmail.com" target="_blank">
+<a href="mailto:denis.duran.44@gmail.com" target="_blank">
    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--chf73s-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/gmail-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" loading="lazy" width="115" height="28">
 </a>
