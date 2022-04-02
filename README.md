@@ -7,7 +7,7 @@
 - 📫 Email: denis.duran.44@gmail.com
 
 ## Skills
-<div><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Ilustrator_CC_icon.svg" alt="Adobe Ilustrator" width="50"/>
+<div><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop"
 width="50"/>
 <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobepremierepro.svg" alt="Adobe Premiere"
