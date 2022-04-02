@@ -30,4 +30,6 @@ width="50"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drektmr&layout=compact"
    alt="Most Used"/>
 </a>  
-     
+
+## Social Media
+
