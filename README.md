@@ -16,14 +16,22 @@
 - 📫 Email: denis.duran.44@gmail.com
 
 ## Skills
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobeillustrator.svg" alt="Adobe Ilustrator" width="40"/>
->![Adobe Photoshop](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobephotoshop.svg)
->![Adobe Premiere](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobepremierepro.svg)
->![Adobe After Effects](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobeaftereffects.svg)
->![Java](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/java.svg)
->![JavaScript](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/javascript.svg)
->![React](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/createreactapp.svg)
->![HTML](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/html5.svg)
->![CSS](https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/css3.svg)
->![PHP](https://simpleicons.org/icons/php.svg)
->![My SQL](https://simpleicons.org/icons/mysql.svg)
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobeillustrator.svg" alt="Adobe Ilustrator" width="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobephotoshop.svg" alt="Adobe Photoshop"
+width="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobepremierepro.svg" alt="Adobe Premiere"
+width="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/adobeaftereffects.svg" alt="Adobe After Effects"
+width="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/java.svg" alt="Java"
+width="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/javascript.svg" alt="JavaScript"
+width="50"/>     
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/createreactapp.svg" alt="React"
+width="50"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/html5.svg" alt="HTML"
+width="50"/>     
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/401aa711571f117e6f8c33ebd54a6d5b86465ec0/icons/css3.svg" alt="CSS"
+width="50"/>     
+<img src="https://simpleicons.org/icons/php.svg" alt="PHP" width="50"/>
+<img src="https://simpleicons.org/icons/mysql.svg" alt="My SQL" width="50"/>
